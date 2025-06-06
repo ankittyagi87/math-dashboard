@@ -1,0 +1,419 @@
+[
+  {
+    "problem_id": 1,
+    "question": "Solve for x: 3x - 7 = 5",
+    "difficulty": "Beginner",
+    "category": "Linear Equations",
+    "solution_steps": [
+      {
+        "step": 1,
+        "action": "Add 7 to both sides",
+        "result": "3x = 12",
+        "explanation": "To isolate 3x, remove -7 by adding 7 to both sides."
+      },
+      {
+        "step": 2,
+        "action": "Divide both sides by 3",
+        "result": "x = 4",
+        "explanation": "Divide by the coefficient of x to solve for x."
+      }
+    ],
+    "hints": [
+      "Try isolating x by removing constants first.",
+      "Think of the equation as a balance—what you do to one side, you must do to the other."
+    ],
+    "common_mistakes": [
+      {
+        "mistake": "Subtracting instead of adding 7",
+        "correction": "Check the sign of numbers before applying operations."
+      },
+      {
+        "mistake": "Dividing incorrectly",
+        "correction": "Make sure to divide by the coefficient of x, not just any number."
+      }
+    ],
+    "tags": ["Linear Equations", "Basic Algebra"]
+  },
+  {
+    "problem_id": 2,
+    "question": "Solve for x: 4x + 6 = 2x + 14",
+    "difficulty": "Beginner",
+    "category": "Linear Equations",
+    "solution_steps": [
+      {
+        "step": 1,
+        "action": "Subtract 2x from both sides",
+        "result": "2x + 6 = 14",
+        "explanation": "To keep x on one side, remove the smaller x term."
+      },
+      {
+        "step": 2,
+        "action": "Subtract 6 from both sides",
+        "result": "2x = 8",
+        "explanation": "Simplify the equation by eliminating constants."
+      },
+      {
+        "step": 3,
+        "action": "Divide by 2",
+        "result": "x = 4",
+        "explanation": "Find x by dividing by its coefficient."
+      }
+    ],
+    "hints": [
+      "Identify like terms and move them to one side.",
+      "Use inverse operations to simplify step-by-step."
+    ],
+    "common_mistakes": [
+      {
+        "mistake": "Incorrect subtraction of 2x",
+        "correction": "Verify all algebraic manipulations step by step."
+      },
+      {
+        "mistake": "Forgetting to subtract 6",
+        "correction": "Always check the equation after each step."
+      }
+    ],
+    "tags": ["Linear Equations", "Basic Algebra"]
+  },
+  {
+    "problem_id": 3,
+    "question": "Solve for x: 5x + 3 = 3x + 11",
+    "difficulty": "Beginner",
+    "category": "Linear Equations",
+    "solution_steps": [
+      {
+        "step": 1,
+        "action": "Subtract 3x from both sides",
+        "result": "2x + 3 = 11",
+        "explanation": "To keep x on one side, eliminate the smaller x term."
+      },
+      {
+        "step": 2,
+        "action": "Subtract 3 from both sides",
+        "result": "2x = 8",
+        "explanation": "Simplify the equation by removing the constant."
+      },
+      {
+        "step": 3,
+        "action": "Divide by 2",
+        "result": "x = 4",
+        "explanation": "Find x by dividing by its coefficient."
+      }
+    ],
+    "hints": [
+      "Try to keep x on one side for easier solving.",
+      "Use inverse operations to simplify each step."
+    ],
+    "common_mistakes": [
+      {
+        "mistake": "Incorrectly subtracting 3x",
+        "correction": "Always double-check algebraic manipulation."
+      },
+      {
+        "mistake": "Forgetting to subtract 3 properly",
+        "correction": "Ensure accuracy before proceeding."
+      }
+    ],
+    "tags": ["Linear Equations", "Basic Algebra"]
+  },
+  {
+    "problem_id": 4,
+    "question": "Solve for x: 6x - 4 = 2x + 8",
+    "difficulty": "Intermediate",
+    "category": "Linear Equations",
+    "solution_steps": [
+      {
+        "step": 1,
+        "action": "Subtract 2x from both sides",
+        "result": "4x - 4 = 8",
+        "explanation": "To keep x on one side, eliminate the smaller x term."
+      },
+      {
+        "step": 2,
+        "action": "Add 4 to both sides",
+        "result": "4x = 12",
+        "explanation": "Simplify by removing the constant."
+      },
+      {
+        "step": 3,
+        "action": "Divide by 4",
+        "result": "x = 3",
+        "explanation": "Find x by dividing by its coefficient."
+      }
+    ],
+    "hints": [
+      "Keep x on one side before eliminating constants.",
+      "Ensure accuracy with subtraction steps."
+    ],
+    "common_mistakes": [
+      {
+        "mistake": "Incorrect subtraction of 2x",
+        "correction": "Verify algebraic manipulations step by step."
+      },
+      {
+        "mistake": "Forgetting to add 4",
+        "correction": "Check for missed additions/subtractions."
+      }
+    ],
+    "tags": ["Linear Equations", "Intermediate Algebra"]
+  },
+  {
+    "problem_id": 5,
+    "question": "Solve for x: 7x + 2 = 5x + 10",
+    "difficulty": "Intermediate",
+    "category": "Linear Equations",
+    "solution_steps": [
+      {
+        "step": 1,
+        "action": "Subtract 5x from both sides",
+        "result": "2x + 2 = 10",
+        "explanation": "To keep x on one side, eliminate the smaller x term."
+      },
+      {
+        "step": 2,
+        "action": "Subtract 2 from both sides",
+        "result": "2x = 8",
+        "explanation": "Simplify the equation by removing the constant."
+      },
+      {
+        "step": 3,
+        "action": "Divide by 2",
+        "result": "x = 4",
+        "explanation": "Find x by dividing by its coefficient."
+      }
+    ],
+    "hints": [
+      "Move all terms involving x to one side.",
+      "Use inverse operations to isolate x."
+    ],
+    "common_mistakes": [
+      {
+        "mistake": "Incorrect subtraction of 5x",
+        "correction": "Make sure to subtract the correct term from both sides."
+      },
+      {
+        "mistake": "Forgetting to subtract 2 properly",
+        "correction": "Always double-check subtraction steps."
+      }
+    ],
+    "tags": ["Linear Equations", "Intermediate Algebra"]
+  },
+  {
+    "problem_id": 6,
+    "question": "Solve for x: 9x - 3 = 6x + 9",
+    "difficulty": "Intermediate",
+    "category": "Linear Equations",
+    "solution_steps": [
+      {
+        "step": 1,
+        "action": "Subtract 6x from both sides",
+        "result": "3x - 3 = 9",
+        "explanation": "To isolate x, first eliminate the smaller x term."
+      },
+      {
+        "step": 2,
+        "action": "Add 3 to both sides",
+        "result": "3x = 12",
+        "explanation": "Simplify by removing the constant."
+      },
+      {
+        "step": 3,
+        "action": "Divide by 3",
+        "result": "x = 4",
+        "explanation": "Find x by dividing by its coefficient."
+      }
+    ],
+    "hints": [
+      "Try moving all x terms to one side first.",
+      "Use inverse operations to simplify step-by-step."
+    ],
+    "common_mistakes": [
+      {
+        "mistake": "Incorrect subtraction of 6x",
+        "correction": "Check your arithmetic before proceeding."
+      },
+      {
+        "mistake": "Forgetting to add 3 properly",
+        "correction": "Make sure constants are correctly removed."
+      }
+    ],
+    "tags": ["Linear Equations", "Intermediate Algebra"]
+  },
+  {
+    "problem_id": 7,
+    "question": "Solve for x: 8x + 6 = 4x + 18",
+    "difficulty": "Intermediate",
+    "category": "Linear Equations",
+    "solution_steps": [
+      {
+        "step": 1,
+        "action": "Subtract 4x from both sides",
+        "result": "4x + 6 = 18",
+        "explanation": "To isolate x, first eliminate the smaller x term."
+      },
+      {
+        "step": 2,
+        "action": "Subtract 6 from both sides",
+        "result": "4x = 12",
+        "explanation": "Simplify by removing the constant."
+      },
+      {
+        "step": 3,
+        "action": "Divide by 4",
+        "result": "x = 3",
+        "explanation": "Find x by dividing by its coefficient."
+      }
+    ],
+    "hints": [
+      "Keep x terms on one side and constants on the other.",
+      "Simplify one step at a time."
+    ],
+    "common_mistakes": [
+      {
+        "mistake": "Incorrect subtraction of 4x",
+        "correction": "Ensure the right term is removed."
+      },
+      {
+        "mistake": "Forgetting to subtract 6",
+        "correction": "Check each step carefully."
+      }
+    ],
+    "tags": ["Linear Equations", "Intermediate Algebra"]
+  },
+  {
+    "problem_id": 8,
+    "question": "Solve for x: 2(x + 4) = 16",
+    "difficulty": "Advanced",
+    "category": "Linear Equations",
+    "solution_steps": [
+      {
+        "step": 1,
+        "action": "Expand brackets",
+        "result": "2x + 8 = 16",
+        "explanation": "Distribute 2 to both terms inside the parentheses."
+      },
+      {
+        "step": 2,
+        "action": "Subtract 8 from both sides",
+        "result": "2x = 8",
+        "explanation": "Simplify by eliminating the constant."
+      },
+      {
+        "step": 3,
+        "action": "Divide by 2",
+        "result": "x = 4",
+        "explanation": "Find x by dividing by its coefficient."
+      }
+    ],
+    "hints": [
+      "Expand parentheses first before solving.",
+      "Apply inverse operations to isolate x."
+    ],
+    "common_mistakes": [
+      {
+        "mistake": "Incorrect expansion of brackets",
+        "correction": "Multiply correctly before proceeding."
+      },
+      {
+        "mistake": "Forgetting to subtract 8",
+        "correction": "Check all simplifications carefully."
+      }
+    ],
+    "tags": ["Linear Equations", "Advanced Algebra"]
+  },
+  {
+    "problem_id": 9,
+    "question": "Solve for x: 3(x - 2) + 5 = 20",
+    "difficulty": "Advanced",
+    "category": "Linear Equations",
+    "solution_steps": [
+      {
+        "step": 1,
+        "action": "Expand brackets",
+        "result": "3x - 6 + 5 = 20",
+        "explanation": "Distribute 3 to both terms inside the parentheses."
+      },
+      {
+        "step": 2,
+        "action": "Simplify the equation",
+        "result": "3x - 1 = 20",
+        "explanation": "Combine like terms."
+      },
+      {
+        "step": 3,
+        "action": "Add 1 to both sides",
+        "result": "3x = 21",
+        "explanation": "Remove the constant term."
+      },
+      {
+        "step": 4,
+        "action": "Divide by 3",
+        "result": "x = 7",
+        "explanation": "Find x by dividing by its coefficient."
+      }
+    ],
+    "hints": [
+      "Expand parentheses before simplifying.",
+      "Always check signs when adding/subtracting."
+    ],
+    "common_mistakes": [
+      {
+        "mistake": "Incorrect expansion of brackets",
+        "correction": "Distribute properly before proceeding."
+      },
+      {
+        "mistake": "Forgetting to add 1",
+        "correction": "Always check calculations step-by-step."
+      }
+    ],
+    "tags": ["Linear Equations", "Advanced Algebra"]
+  },
+  {
+    "problem_id": 10,
+    "question": "Solve for x: 4(x + 1) - 2 = 18",
+    "difficulty": "Advanced",
+    "category": "Linear Equations",
+    "solution_steps": [
+      {
+        "step": 1,
+        "action": "Expand brackets",
+        "result": "4x + 4 - 2 = 18",
+        "explanation": "Distribute 4 to both terms inside the parentheses."
+      },
+      {
+        "step": 2,
+        "action": "Simplify the equation",
+        "result": "4x + 2 = 18",
+        "explanation": "Combine like terms."
+      },
+      {
+        "step": 3,
+        "action": "Subtract 2 from both sides",
+        "result": "4x = 16",
+        "explanation": "Remove the constant term."
+      },
+      {
+        "step": 4,
+        "action": "Divide by 4",
+        "result": "x = 4",
+        "explanation": "Find x by dividing by its coefficient."
+      }
+    ],
+    "hints": [
+      "Expand first, then simplify step-by-step.",
+      "Keep track of terms carefully."
+    ],
+    "common_mistakes": [
+      {
+        "mistake": "Incorrect expansion of brackets",
+        "correction": "Check multiplication carefully."
+      },
+      {
+        "mistake": "Forgetting to subtract 2",
+        "correction": "Always double-check each step."
+      }
+    ],
+    "tags": ["Linear Equations", "Advanced Algebra"]
+  }
+  
+]
